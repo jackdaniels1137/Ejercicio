@@ -1,5 +1,12 @@
 .cuadroFoto{
-width: 200px;
-height: 200px;
+width: 100px;
+height: 100px;
 
+}
+
+.cuadroVerde{
+
+    background-color: greenyellow;
+    width: 150px;
+    height: 150px;
 }
