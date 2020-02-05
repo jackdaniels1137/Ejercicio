@@ -1,6 +1,12 @@
 .barranegra{
     background-color: black;
     color: white;
-    width: 1000px;
-    width: 100px;
+    width: 1900px;
+    height: 100px;
+    margin-bottom: 100px;
+    margin-top:800px;
+}
+.texto{
+    text-align: center;
+    padding-top: 50px;
 }
