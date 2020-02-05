@@ -37,17 +37,13 @@
   height: 200px;
 }
 
-.alineacionCuadroTexto1 {
+.alineacionCuadroTexto {
   margin-left: 600px;
   margin-top: -210px;
 }
 
-.alineacionCuadroTexto2 {
-    margin-left: 600px;
-    margin-top: -210px;
-  }
 
-.textoCuadro1 {
+.textoCuadro {
   text-align: center justify;
   font-family: "Nosifer", cursive;
   font-size: 13px;
@@ -57,13 +53,5 @@
   height: 200px;
 }
 
-.textoCuadro2 {
-    text-align: center justify;
-    font-family: "Nosifer", cursive;
-    font-size: 13px;
-    padding-top: 50px;
-    padding-left: 30px;
-    padding-right: 20px;
-    height: 200px;
-  }
+
 
